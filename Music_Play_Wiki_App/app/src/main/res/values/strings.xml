@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project#2</string>
+    <string name="action_settings">Settings</string>
+    <string name="Watch">Watch The Video</string>
+    <string name="song_wiki">View Info about Song</string>
+    <string name="composer_wiki">View Info about Composer</string>
+</resources>

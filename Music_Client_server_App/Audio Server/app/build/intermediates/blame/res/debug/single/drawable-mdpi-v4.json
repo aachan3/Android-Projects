@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleService/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleService/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aravindachanta/Documents/Android projects/Project#4/Audio Server/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/aravindachanta/Documents/Android projects/Project#4/Audio Server/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aravindachanta/Desktop/Audio Server/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/aravindachanta/Desktop/Audio Server/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

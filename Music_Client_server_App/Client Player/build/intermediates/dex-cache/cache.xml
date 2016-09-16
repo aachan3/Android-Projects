@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-19.1.0_dac11f736e8848a8165238d89fbd50f9ed59e972.jar" />
+    </item>
+    <item
+        jar="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_ac63b0524e8ad0f5e2d2cf2e4997d5486e4e2afc.jar" />
+    </item>
+    <item
+        jar="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_0a59865ec41aea589d8d3ab3a7af24eea99a48ca.jar" />
+    </item>
+    <item
+        jar="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_ef3a69ea4de0ca01eca4391e51fc9183dfd1e443.jar" />
+    </item>
+    <item
+        jar="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_96e63c5cc74a9ea7e8f1e70c3f71936ad81f5a75.jar" />
+    </item>
+    <item
+        jar="/Users/aravindachanta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_fef242b95a4437805c435575889b63f3e7a862e3.jar" />
+    </item>
+
+</items>

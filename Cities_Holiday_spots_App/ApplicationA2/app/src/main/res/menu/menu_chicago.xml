@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aravindachanta.applicationa2.ChicagoActivity">
+    <item
+        android:id="@+id/chic_settings"
+        android:orderInCategory="100"
+        android:title="@string/chic_settings"
+        app:showAsAction="never" />
+
+
+</menu>

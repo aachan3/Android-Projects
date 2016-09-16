@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Application A2</string>
+    <string name="chic_settings">Switch to Indiana City</string>
+    <string name="indi_settings">Switch to Chicago City</string>
+    <string-array name="chicago_titles">
+        <item>Lincoln Park Zoo</item>
+        <item>Willis Tower</item>
+        <item>Navy Pier</item>
+        <item>Science and Art Museum</item>
+        <item>Adler Planetarium</item>
+        <item>Millenium Park</item>
+        <item>Shed Aquarium</item>
+        <item>Art Institute of Chicago</item>
+        <item>Field Museum of Natural History</item>
+        <item>Wrigley Field</item>
+        <item>Buckingham Fountain</item>
+        <item>BrookField Zoo</item>
+
+
+    </string-array>
+    <string-array name="chicago_links">
+        <item>http://www.lpzoo.org</item>
+        <item>http://www.willistower.com</item>
+        <item>https://navypier.com</item>
+        <item>http://www.msichicago.org</item>
+        <item>http://www.adlerplanetarium.org</item>
+        <item>http://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>http://www.sheddaquarium.org</item>
+        <item>http://www.artic.edu</item>
+        <item>https://www.fieldmuseum.org</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+        <item>http://www.chicagoparkdistrict.com/parks/clarence-f-buckingham-memorial-fountain/</item>
+        <item>https://www.czs.org/Brookfield-ZOO/Home</item>
+    </string-array>
+
+    <string-array name="indiana_titles">
+        <item>Indianapolis Motor Speedway</item>
+        <item>Children’s Museum</item>
+        <item>Indiana State Museum</item>
+        <item>IndianaPolis Zoo</item>
+        <item>Soldiers and Sailors Monument</item>
+        <item>Indiana Medical History Museum</item>
+        <item>Eiteljorg Museum of American Indians and Western Art</item>
+
+    </string-array>
+    <string-array name="indiana_links">
+        <item>http://www.indianapolismotorspeedway.com//</item>
+        <item>https://www.childrensmuseum.org/?gclid=CMLcxvaZv8sCFVGAaQodgL0I-g</item>
+        <item>http://www.indianamuseum.org/visit/info/?gclid=CLm_4IOav8sCFQqoaQodUoUNEg</item>
+        <item>http://www.indianapoliszoo.com/SitePages/Home.aspx</item>
+        <item>http://maxkade.iupui.edu/soldiers.html</item>
+        <item>http://www.imhm.org/</item>
+        <item>https://www.eiteljorg.org/</item>
+    </string-array>
+    <string name="title_activity_indianapolis">IndianapolisActivity</string>
+</resources>

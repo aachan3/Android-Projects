@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/aravindachanta/Documents/Android projects/Project#4/Client Player/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/aravindachanta/Documents/Android projects/Project#4/Client Player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/Users/aravindachanta/Desktop/Client Player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleClient/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/aravindachanta/Downloads/ServiceWithIPCExampleClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/Users/aravindachanta/Documents/Android projects/Project#4/Client Player/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/Users/aravindachanta/Documents/Android projects/Project#4/Client Player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout-v11/abc_simple_decor.xml"
+    }
+]
